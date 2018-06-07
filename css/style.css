@@ -1,0 +1,77 @@
+.container {
+    width: 1000px;
+    height: 800px;
+    background: yellow;
+    margin: auto;
+}
+
+.column1 {
+    width: 200px;
+    height: 700px;
+    background: red;
+    float: left;
+}
+
+.column2 {
+    width: 800px;
+    height: 700px;
+    background: black;
+    float: left;
+    margin: auto;
+}
+
+.container {
+    width: 1000px;
+    height: 800px;
+    background: yellow;
+    margin: auto;
+}
+
+div {
+    display: block;
+}
+
+head {
+    display: none;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+.column3 {
+    width: 800px;
+    height: 100px;
+    background: gray;
+    float: bottom;
+}
+
+.column4 {
+    width: 800px;
+    height: 250px;
+    background: green;
+    float: bottom;
+}
+
+.lower_column {
+    width: 800px;
+    height: 350px;
+    background: orange;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+html {
+    display: block;
+}
+
+.middle2 {
+    width: 400px;
+    height: 250px;
+    background: purple;
+    float: left;
+}
